@@ -1,0 +1,9 @@
+[submodule "placeholder"]
+	path = placeholder
+	url = https://github.com/BuckarooBanzay/placeholder
+[submodule "mtzip"]
+	path = mtzip
+	url = https://github.com/BuckarooBanzay/mtzip
+[submodule "blockexchange"]
+	path = blockexchange
+	url = https://github.com/blockexchange/blockexchange
